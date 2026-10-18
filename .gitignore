@@ -1,0 +1,8 @@
+venv/
+__pycache__/
+*.pyc
+data/speech_commands_v0.02/
+checkpoints/*.pt
+features/cached/
+plots/
+.DS_Store
